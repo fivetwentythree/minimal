@@ -1,0 +1,10 @@
+baseURL = 'https://fivetwentythree.github.io/minimal/'
+languageCode = 'en-us'
+title = 'lochana perera'
+theme = 'shibui'
+
+
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
